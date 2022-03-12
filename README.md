@@ -2,7 +2,7 @@
 - 👀 I’m interested in Progrmming & Networking 
 - 🌱 I’m currently learning at SLIIT
 - 💞️ I’m looking to collaborate on Cyber Expedia
-- 📫 How to reach me #fb #linkedin
+- 📫 How to reach me #fb nipun.ayodya #linkedin Nipun Palliyaguru
 
 <!---
 IT21187278/IT21187278 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
