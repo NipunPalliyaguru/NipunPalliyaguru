@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋, I'm Nipun Palliyaguru</h1>
 <h3 align="center" style="text-transform:capitalize;">I'm passionate about software developing, web designing and developing, database analysis, visual effect, graphics design, audio engineering and other related areas..</h3>
 
+https://user-images.githubusercontent.com/99266866/163163702-1c0aa3bf-1134-415f-905e-fd0250b1981d.mp4
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21187278&label=Profile%20views&color=0e75b6&style=flat" alt="it21187278" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21187278" alt="it21187278" /></a> </p>
