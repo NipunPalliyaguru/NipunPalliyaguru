@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nipun Palliyaguru</h1>
-<h3 align="center" style="text-transform:capitalize;">I'm passionate about software developing, web designing and developing, database analysis, visual effect, graphics design, audio engineering and other related areas..</h3>
+<h3 align="center">I'm passionate about software developing, web designing and developing, database analysis, visual effect, graphics design, audio engineering and other related areas..</h3>
 
 
 
