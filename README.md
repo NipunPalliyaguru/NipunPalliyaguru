@@ -1,3 +1,11 @@
+
+<video width="320" height="240" autoplay>
+  <source src="https://media.istockphoto.com/videos/digital-cyberspace-with-particles-and-digital-data-network-high-video-id1272594553?s=256_srp_is" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
 <h1 align="center">Hi 👋, I'm Nipun Palliyaguru</h1>
 <h3 align="center" style="text-transform:capitalize;">I'm passionate about software developing, web designing and developing, database analysis, visual effect, graphics design, audio engineering and other related areas..</h3>
 
