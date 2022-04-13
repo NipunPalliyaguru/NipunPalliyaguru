@@ -6,9 +6,12 @@
 <h3 align="center" style="text-transform:capitalize;">I'm passionate about software developing, web designing and developing, database analysis, visual effect, graphics design, audio engineering and other related areas..</h3>
 
 <center>
-<vedio autoplay>
+<video width="320" height="240" autoplay>
   <source src="https://user-images.githubusercontent.com/99266866/163163702-1c0aa3bf-1134-415f-905e-fd0250b1981d.mp4" type="video/mp4">
-</vedio>
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
 </center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21187278&label=Profile%20views&color=0e75b6&style=flat" alt="it21187278" /> </p>
