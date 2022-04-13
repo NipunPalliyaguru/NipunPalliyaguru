@@ -1,10 +1,6 @@
-<H1> 
-<video width="320" height="240" autoplay>
-  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-</H1>
+<p>
+  <img src="https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+</p>
 
 <h1 align="center">Hi 👋, I'm Nipun Palliyaguru</h1>
 <h3 align="center" style="text-transform:capitalize;">I'm passionate about software developing, web designing and developing, database analysis, visual effect, graphics design, audio engineering and other related areas..</h3>
