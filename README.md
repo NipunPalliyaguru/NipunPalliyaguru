@@ -7,7 +7,7 @@
 
 <center>
 <vedio autoplay>
-  https://user-images.githubusercontent.com/99266866/163163702-1c0aa3bf-1134-415f-905e-fd0250b1981d.mp4
+  <source src="https://user-images.githubusercontent.com/99266866/163163702-1c0aa3bf-1134-415f-905e-fd0250b1981d.mp4" type="video/mp4">
 </vedio>
 </center>
 
