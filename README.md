@@ -5,8 +5,10 @@
 <h1 align="center">Hi 👋, I'm Nipun Palliyaguru</h1>
 <h3 align="center" style="text-transform:capitalize;">I'm passionate about software developing, web designing and developing, database analysis, visual effect, graphics design, audio engineering and other related areas..</h3>
 
+<iframe width="420" height="315"
+src="https://user-images.githubusercontent.com/99266866/163163702-1c0aa3bf-1134-415f-905e-fd0250b1981d.mp4">
+</iframe>
 
-https://user-images.githubusercontent.com/99266866/163163702-1c0aa3bf-1134-415f-905e-fd0250b1981d.mp4
 
 
 
