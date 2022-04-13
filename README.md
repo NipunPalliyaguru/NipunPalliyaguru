@@ -1,7 +1,7 @@
 
 <video width="320" height="240" autoplay>
-  <source src="https://media.istockphoto.com/videos/digital-cyberspace-with-particles-and-digital-data-network-high-video-id1272594553?s=256_srp_is" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/ogg">
 Your browser does not support the video tag.
 </video>
 
