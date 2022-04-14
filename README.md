@@ -1,7 +1,12 @@
 
+![Close Up Hand of Developing Programming and Coding Technologies- Programmer Hand Typing on Keyboard by olegbadak-min](https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif)
+
+
 
 
 <h1 align="center">Hi 👋, I'm Nipun Palliyaguru</h1>
+<img src="https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif" width="660px" height="200px">
+
 <h3 align="center">I'm passionate about software developing, web designing and developing, database analysis, visual effect, graphics design, audio engineering and other related areas..</h3>
 
 
