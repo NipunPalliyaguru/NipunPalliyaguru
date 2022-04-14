@@ -1,11 +1,8 @@
-
-![Close Up Hand of Developing Programming and Coding Technologies- Programmer Hand Typing on Keyboard by olegbadak-min](https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif)
-
-
-
+<h1 align="center">
+<img src="https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif" width="640px" align="center">
+</h1>
 
 <h1 align="center">Hi 👋, I'm Nipun Palliyaguru</h1>
-<img src="https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif" width="660px" height="200px">
 
 <h3 align="center">I'm passionate about software developing, web designing and developing, database analysis, visual effect, graphics design, audio engineering and other related areas..</h3>
 
@@ -15,10 +12,10 @@
 
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21187278&label=Profile%20views&color=0e75b6&style=flat" alt="it21187278" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21187278" alt="it21187278" /></a> </p>
+<marque>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=it21187278&label=Profile%20views&color=0e75b6&style=flat" alt="it21187278" /> </p>
+</marque>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21187278" alt="it21187278" /></a> </p>
 
 <p align="left"> <a href="NipunPalliyagu2" target="blank"><img src="https://img.shields.io/twitter/follow/NipunPalliyagu2?logo=twitter&style=for-the-badge" alt="NipunPalliyagu2" /></a> </p>
 
@@ -41,6 +38,16 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21187278&show_icons=true&locale=en&layout=compact" alt="it21187278" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21187278&show_icons=true&locale=en" alt="it21187278" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21187278&show_icons=true&locale=en" alt="it21187278" /></p>!
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21187278&" alt="it21187278" /></p>
+
+<h1 align="center">
+<img src="https://user-images.githubusercontent.com/99266866/163392943-fc293bf5-e8a6-4a37-989b-bdc727ff94da.gif" width="50px" align="center">
+  <img src="https://user-images.githubusercontent.com/99266866/163392943-fc293bf5-e8a6-4a37-989b-bdc727ff94da.gif" width="50px" align="center">
+  <img src="https://user-images.githubusercontent.com/99266866/163392943-fc293bf5-e8a6-4a37-989b-bdc727ff94da.gif" width="50px" align="center">
+  
+</h1>
+
+
