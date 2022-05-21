@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif autoplay="enable" width="640px" align="center">
+<img src="https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif" autoplay="enable" width="640px" align="center">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Nipun Palliyaguru</h1>
