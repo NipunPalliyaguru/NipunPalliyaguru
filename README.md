@@ -43,11 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21187278&" alt="it21187278" /></p>
 
-<h1 align="center">
-<img src="https://user-images.githubusercontent.com/99266866/163392943-fc293bf5-e8a6-4a37-989b-bdc727ff94da.gif" width="50px" align="center">
-  <img src="https://user-images.githubusercontent.com/99266866/163392943-fc293bf5-e8a6-4a37-989b-bdc727ff94da.gif" width="50px" align="center">
-  <img src="https://user-images.githubusercontent.com/99266866/163392943-fc293bf5-e8a6-4a37-989b-bdc727ff94da.gif" width="50px" align="center">
-  
-</h1>
+
 
 
