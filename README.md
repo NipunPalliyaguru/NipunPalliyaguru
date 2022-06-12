@@ -17,7 +17,6 @@
 </marque>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21187278" alt="it21187278" /></a> </p>
 
-<p align="left"> <a href="NipunPalliyagu2" target="blank"><img src="https://img.shields.io/twitter/follow/NipunPalliyagu2?logo=twitter&style=for-the-badge" alt="NipunPalliyagu2" /></a> </p>
 
 - 🌱 I’m currently learning **Bsc.in Information Technology [SP] at SLIIT**
 
