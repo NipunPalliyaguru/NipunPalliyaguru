@@ -15,8 +15,11 @@
 <marque>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it21187278&label=Profile%20views&color=0e75b6&style=flat" alt="it21187278" /> </p>
 </marque>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21187278" alt="it21187278" /></a> </p>
 
+
+
+
+<img src="https://user-images.githubusercontent.com99266866/205360818-7f1cfb3e-6490-48c8-95e3-499fac3624ee.gif" autoplay="enable" width="640px" align="center">
 
 - 🌱 I’m currently learning **Bsc.in Information Technology [SP] at SLIIT**
 
