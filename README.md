@@ -2,9 +2,16 @@
 
 
 <h1 align="center">
+
 <img src="https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif" autoplay="enable" width="640px" align="center">
+
 </h1>
 
+
+![image](https://user-images.githubusercontent.com/99266866/224893640-72f57679-8c6c-4a78-98bf-a8e586c9131c.png)
+<h1>
+<img src="hhttps://user-images.githubusercontent.com/99266866/224893640-72f57679-8c6c-4a78-98bf-a8e586c9131c.png"  width="640px" align="center">
+</h1>
 <h1 align="center">Hi , I'm Nipun <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> </h1>
 
 <h4 align="center">As a passionate and skilled professional in software development, web design and development, database analysis, visual effects, graphics design, and audio engineering, I am committed to delivering high-quality solutions and constantly seeking new challenges to expand my expertise. Let's connect on GitHub and bring your projects to life!...</h4>
