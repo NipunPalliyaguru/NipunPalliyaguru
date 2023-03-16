@@ -7,8 +7,6 @@
 
 </h1>
 
-
-![image](https://user-images.githubusercontent.com/99266866/224893640-72f57679-8c6c-4a78-98bf-a8e586c9131c.png)
 <h1>
 <img src="hhttps://user-images.githubusercontent.com/99266866/224893640-72f57679-8c6c-4a78-98bf-a8e586c9131c.png"  width="640px" align="center">
 </h1>
