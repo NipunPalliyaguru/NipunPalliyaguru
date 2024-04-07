@@ -10,20 +10,11 @@
 <h1 align="center">Hey Everyone 👋, I'm Nipun 😊😊</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif" autoplay="enable" width="640px" align="center"> </div>
 <h3 align="center">As a passionate and skilled professional in software development, web design and development, database analysis, visual effects, graphics design, and audio engineering, I am committed to delivering high-quality solutions and constantly seeking new challenges to expand my expertise. Let's connect on GitHub and bring your projects to life!...</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/99266866/205451366-fe173a02-81ff-4d06-8b44-e702ae963439.gif">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
-
-- 💬 Ask me about **DevOps & Cloud DevOps**
-
-- 📫 How to reach me **masteraadi246@gmail.com**
- -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,8 +62,13 @@
 
 
 <img src="https://raw.githubusercontent.com/NipunPalliyaguru/NipunPalliyaguru/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/NipunPalliyaguru/NipunPalliyaguru/output/snake.svg" alt="Snake animation" />
+
+[###](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 ###
+![Uploading github-contribution-grid-snake.svg…]()
 
 </body>
 </html>
