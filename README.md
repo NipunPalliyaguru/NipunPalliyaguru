@@ -7,20 +7,30 @@
 </head>
 <body>
     
-<h1 align="center">Hey Everyone 👋, I'm Nipun 😊😊</h1>
 <div align="center"><img src="https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif" autoplay="enable" width="640px" align="center"> </div>
-<h3 align="center">As a passionate and skilled professional in software development, web design and development, database analysis, visual effects, graphics design, and audio engineering, I am committed to delivering high-quality solutions and constantly seeking new challenges to expand my expertise. Let's connect on GitHub and bring your projects to life!...</h3>
+<h3 align="center">Software Engineer -Trainee || Full Stack || Studies at SLIIT</h3>
+<br><br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/99266866/205451366-fe173a02-81ff-4d06-8b44-e702ae963439.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21187278&label=Profile%20views&color=0e75b6&style=flat" alt="it21187278" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<div align="left">
+	<a href="https://www.linkedin.com/in/nipun-palliyaguru-98a470216/" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  width="52" height="40" alt="linkedin logo"  /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+
   
 </p>
 
