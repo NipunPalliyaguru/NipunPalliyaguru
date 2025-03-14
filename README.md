@@ -8,7 +8,7 @@
 <body>
     
 <div align="center"><img src="https://user-images.githubusercontent.com/99266866/163390097-ddc45a68-63cc-4ed1-ab44-39833ead1b15.gif" autoplay="enable" width="640px" align="center"> </div>
-<h3 align="center">Software Engineer -Trainee || Full Stack || DEV OPS</h3>
+<h3 align="center">Software Engineer - Full Stack | Java | Spring Boot | MERN | CloudOps</h3>
 <br><br>
 
 
